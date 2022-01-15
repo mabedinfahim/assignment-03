@@ -133,19 +133,19 @@ body{
 
 @keyframes slading{
       0%{
-          background-image: url("./images/one.png");
+          background-image: url("/images/one.png");
       }
       25%{
-        background-image: url("./images/two.png");
+        background-image: url("/images/two.png");
     }
     50%{
-        background-image: url("./images/three.png");
+        background-image: url("/images/three.png");
     }
     75%{
-        background-image: url("./images/four.png");
+        background-image: url("/images/four.png");
     }
     100%{
-        background-image: url(".//images/two.png");
+        background-image: url("/images/two.png");
     }
 }
 
@@ -260,16 +260,16 @@ body{
 
 @keyframes feature-anim {
     0%{
-        background-image: url("./images/delivery.png");
+        background-image: url("/images/delivery.png");
     }
     33%{
-        background-image: url("./images/pana.png");
+        background-image: url("/images/pana.png");
     }
     66%{
-        background-image: url("./images/shipping.png");
+        background-image: url("/images/shipping.png");
     }
     100%{
-        background-image: url("./images/pana.png");
+        background-image: url("/images/pana.png");
     }
 }
 
